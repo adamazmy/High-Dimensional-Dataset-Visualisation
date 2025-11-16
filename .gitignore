@@ -1,0 +1,21 @@
+# Ignore all CSV datasets
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Ignore virtual environments
+.vscode/
+.venv/
+env/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
