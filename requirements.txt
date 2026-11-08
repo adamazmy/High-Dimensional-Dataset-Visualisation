@@ -1,7 +1,19 @@
-pandas
-numpy
-scikit-learn
-umap-learn
-matplotlib
-scipy
-seaborn
+# Core analysis
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+umap-learn>=0.5.5
+
+# Visualisation
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+
+# Interactive apps
+streamlit>=1.40
+
+# Notebooks
+jupyter
+nbformat>=5.9
+openpyxl>=3.1
